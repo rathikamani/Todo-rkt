@@ -1,0 +1,11 @@
+table, th, td {
+    border: 1px solid;
+  }
+
+table {
+    margin: 10px;
+}
+
+.action_link{
+    color: red;
+}
